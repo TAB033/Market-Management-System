@@ -1,0 +1,34 @@
+FUDBIS001~Sunfeast Dark Fantasy Original~40.0~57
+FUDBIS002~Parle Hide & Seek~30.0~918
+FUDBIS003~Cadbury Oreo Choco Creame 288.75 gm~99.0~494
+FUDBIS004~Britannia Bourbon 50 gm~10.0~800
+FUDSNK001~Kurkure Solid Masti~20.0~314
+FUDSNK002~Lay's Cream & onion 90 gm~50.0~99
+FUDSNK003~Balaji Masala Masti~10.0~375
+FUDICE001~Amul Chocolate Cone~35.0~165
+FUDICE002~Havemore Chhokobar ~20.0~389
+FUDICE003~Amul AmericanNut's~120.0~20
+HLTFAD001~Bandage~2.0~500
+HLTFAD002~Cotton~roll 70cm~40.0~60
+HLTFAD003~Dettol antiseptic liquid~210.0~170
+HLTLQM001~Patanjali cough syrup~75.0~150
+HLTLQM002~Kamdhenu Tulsi drops~50.0~85
+HLTMED001~Peracitamol~1.0~1394
+HLTMED002~Dolo~5.0~400
+EDEBTH001~Dettol Shop~70.0~46
+EDEBTH002~Khadin bodywash~270.0~385
+EDEBTH003~washing Powder Nirma~130.0~60
+EDEPFM001~patel neck~180.0~40
+EDEPFM002~Jeguar Classic Black~1885.0~40
+EDEBTY001~Mamaearth TreeFree facewash~280.0~60
+EDEBTY002~Setwax hairwax~380.0~20
+HOMCOK001~Set of 6 dish & bowls~780.0~30
+HOMCOK002~Spoons~30.0~40
+HOMDEC001~Sofa set~19000.0~7
+HOMDEC002~Flower pot~750.0~30
+FUDSNK004~Balaji Tomota waffer~10.0~593
+HLTLQM003~Lifeboy Sanitizer~78.0~540
+FUDBIS005~Parle~10.0~200
+FUDICE004~choco-browne cone~35.0~59
+FUDICE005~Pan flavour~40.0~104
+HOMCOK003~spoon~32.0~37

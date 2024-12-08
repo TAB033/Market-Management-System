@@ -1,0 +1,3 @@
+manager~manager~manager@123~mr. manager-1~123456789852~1234567890~12th pass~manager@xyz.com
+staff~staff1~staff@123~staff1~123456789987~1234567899~10th pass~staff1@xyz.com
+staff~staff2~staff@123~staff2~123456789741~1234567889~10th pass~staff2@xyz.com
