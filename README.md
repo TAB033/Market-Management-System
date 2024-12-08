@@ -44,3 +44,11 @@ The Market Management System is a Java-based application designed to streamline 
 - Add a GUI using JavaFX or Swing.
 - Implement advanced security features like hashed passwords.
 - Integrate reporting tools for detailed analytics.
+
+## Installation
+
+To get a local copy up and running, follow these simple steps:
+
+1. **Clone the repository**
+   ```bash
+   https://github.com/TAB033/Market-Management-System.git
