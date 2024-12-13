@@ -52,3 +52,16 @@ To get a local copy up and running, follow these simple steps:
 1. **Clone the repository**
    ```bash
    https://github.com/TAB033/Market-Management-System.git
+
+2. **Navigate to the project directory**
+   ```bash
+   cd Market-Management-System
+   
+3. **Compile the Java files**
+   ```bash
+   javac *.java
+   
+4. **Run the application**
+   ```bash
+   java market
+
